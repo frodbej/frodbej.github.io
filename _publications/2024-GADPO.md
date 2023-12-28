@@ -6,5 +6,5 @@ excerpt: 'The amplification of the 16S ribosomal RNA gene through the polymerase
 date: 2024-03-15
 venue: 'Expert Systems with Applications'
 paperurl: 'https://doi.org/10.1016/j.eswa.2023.122206'
-citation: '"GADPO: Genetic Algorithm based on Dominance for Primer Optimization". Fernando M. Rodríguez-Bejarano, Miguel A. Vega-Rodríguez, Sergio Santander-Jiménez. Expert Systems With Applications, Volume 238, Part D, 122206, Pergamon-Elsevier Science, Oxford, England, UK, 2024, pp. 1-15, ISSN: 0957-4174. DOI: 10.1016/j.eswa.2023.122206. *(JCR impact factor = 8.5 in 2022, Quartile = Q1)*'
+citation: '"GADPO: Genetic Algorithm based on Dominance for Primer Optimization". Fernando M. Rodríguez-Bejarano, Miguel A. Vega-Rodríguez, Sergio Santander-Jiménez. Expert Systems With Applications, Volume 238, Part D, 122206, Pergamon-Elsevier Science, Oxford, England, UK, 2024, pp. 1-15, ISSN: 0957-4174. DOI: 10.1016/j.eswa.2023.122206. (JCR impact factor = 8.5 in 2022, Quartile = Q1)'
 ---
