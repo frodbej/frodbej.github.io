@@ -15,6 +15,8 @@ redirect_from:
   - Python, R, Bash, SQL.
 - **Bioinformatics Tools:**
   - fastQC, trimmomatic, bowtie, SAMtools, Bioconductor, IGV.
+- **Computation:**
+  - Version control systems (Git)
 - **NGS Data Analysis:**
   - RNA-seq, scRNA-seq, ChIP-seq.
 - **Statistical Analysis:**
