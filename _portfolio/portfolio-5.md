@@ -1,6 +1,6 @@
 ---
 title: "Prediction of the solubility of molecules"
-excerpt: "Building of a linear regression model for predicting the solubility of molecules. <br/><img src='/images/500x300.png'>"
+excerpt: "Building of a linear regression model for predicting the solubility of molecules. <br/><img src='/images/regression_plot.png'>"
 collection: portfolio
 ---
 

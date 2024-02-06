@@ -1,6 +1,6 @@
 ---
 title: "Drug Discovery Project"
-excerpt: "Drug discovery project employing machine learning techniques to predict bioactivity against BRAF. <br/><img src='/images/500x300.png'>"
+excerpt: "Drug discovery project employing machine learning techniques to predict bioactivity against BRAF. <br/><img src='/images/pIC50_boxplot.pdf'>"
 collection: portfolio
 ---
 
